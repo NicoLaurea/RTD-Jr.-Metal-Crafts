@@ -1,0 +1,17 @@
+To Create database
+-Open xampp control panel
+-start apache and mysql
+-on mysql click the admin
+-create new database name it as "inquiry system"
+
+-create the table, naming "user_inquiry" make it 
+5 col for id
+
+-on the table put the id at first and needs like name email 
+and other
+
+- In id find A_I for auto increament 
+- make all the type VARCHAR except id
+
+-put length/values
+-save and it is ready to run
